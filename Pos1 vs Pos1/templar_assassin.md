@@ -3,11 +3,11 @@
 - [[spectre#Bad|spectre]]
 - [[dragon_knight#Bad|dragon_knight]]
 - [[sven#Bad|sven]]
-- [[juggernaut#Bad|juggernaut]]
+- [[Pos1 vs Pos1/juggernaut#Bad|juggernaut]]
 - [[magnus#Bad|magnus]]
 # Bad
-* monkey_king
-* medusa
-* morphling
-* tiny
-* phantom_assassin
+- monkey_king
+- medusa
+- morphling
+- tiny
+- phantom_assassin

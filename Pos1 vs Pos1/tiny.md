@@ -4,7 +4,7 @@
 - [[terrorblade#Bad|terrorblade]]
 - [[troll_warlord#Bad|troll_warlord]]
 - [[gyrocopter#Bad|gyrocopter]]
-- [[juggernaut#Bad|juggernaut]]
+- [[Pos1 vs Pos1/juggernaut#Bad|juggernaut]]
 # Bad
 - marci
 - lifestealer

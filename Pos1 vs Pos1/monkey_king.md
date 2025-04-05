@@ -6,8 +6,8 @@
 - [[templar_assassin#Bad|templar_assassin]]
 - [[dragon_knight#Bad|dragon_knight]]
 # Bad
-* riki
-* gyrocopter
-* ursa
-* drow_ranger
-* morphling
+- riki
+- gyrocopter
+- ursa
+- drow_ranger
+- morphling

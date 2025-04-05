@@ -4,7 +4,7 @@
 - [[luna#Bad|luna]]
 - [[wraith_king#Bad|wraith_king]]
 - [[drow_ranger#Bad|drow_ranger]]
-- [[juggernaut#Bad|juggernaut]]
+- [[Pos1 vs Pos1/juggernaut#Bad|juggernaut]]
 # Bad
 - templar_assassin
 - monkey_king

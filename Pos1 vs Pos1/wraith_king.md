@@ -1,7 +1,7 @@
 [DONE]
 # Good
 - [[terrorblade#Bad|terrorblade]]
-- [[juggernaut#Bad|juggernaut]]
+- [[Pos1 vs Pos1/juggernaut#Bad|juggernaut]]
 - [[phantom_assassin#Bad|phantom_assassin]]
 - [[sven#Bad|sven]]
 - [[faceless_void#Bad|faceless_void]]

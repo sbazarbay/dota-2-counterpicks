@@ -4,7 +4,7 @@
 - [[faceless_void#Bad|faceless_void]]
 - [[dragon_knight#Bad|dragon_knight]]
 - [[antimage#Bad|anti_mage]]
-- [[juggernaut#Bad|juggernaut]]
+- [[Pos1 vs Pos1/juggernaut#Bad|juggernaut]]
 # Bad
 - morphling
 - wraith_king
