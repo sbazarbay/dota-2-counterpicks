@@ -1,9 +1,13 @@
-good vs:
+[DONE]
+# Good
 - [[gyrocopter]]
 - [[lifestealer]]
 - [[phantom_assassin]]
-
-bad vs:
-- medusa
+- [[drow_ranger#Bad|drow_ranger]]
+- [[terrorblade#Bad|terrorblade]]
+# Bad
 - templar_assassin
-- monkey_king
+- medusa
+- spectre
+- wraith_king
+- clinkz
