@@ -7,6 +7,7 @@ Sorted by best or worst matchup scenario, via winrate, but no winrate included, 
 Grouped in folders by matchup type.
 
 TODO:
+[x] Pos1 vs Pos1
 [] Pos1 vs Pos3
 [] Pos3 vs Pos1
 [] Pos2 vs Pos2
