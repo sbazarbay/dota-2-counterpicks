@@ -3,7 +3,7 @@
 - [[ursa#Bad|ursa]]
 - [[morphling#Bad|morphling]]
 - [[phantom_assassin#Bad|phantom_assassin]]
-- [[Pos1 vs Pos1/juggernaut#Bad|juggernaut]]
+- N/A
 - N/A
 # Bad
 - natures_prophet
