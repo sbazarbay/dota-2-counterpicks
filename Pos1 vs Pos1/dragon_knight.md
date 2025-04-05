@@ -7,7 +7,7 @@
 - [[natures_prophet#Bad|natures_prophet]]
 # Bad
 - faceless_void
-- anti_mage
+- antimage
 - templar_assassin
 - monkey_king
 - terrorblade

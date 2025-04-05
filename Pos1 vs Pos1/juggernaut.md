@@ -11,4 +11,4 @@
 - clinkz
 - wraith_king
 - morphling
-- anti_mage
+- antimage

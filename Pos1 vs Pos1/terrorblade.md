@@ -3,7 +3,7 @@
 - [[luna#Bad|luna]]
 - [[faceless_void#Bad|faceless_void]]
 - [[dragon_knight#Bad|dragon_knight]]
-- [[anti_mage#Bad|anti_mage]]
+- [[antimage#Bad|anti_mage]]
 - [[juggernaut#Bad|juggernaut]]
 # Bad
 - morphling
