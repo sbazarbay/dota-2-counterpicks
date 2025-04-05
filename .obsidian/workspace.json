@@ -6,15 +6,47 @@
       {
         "id": "cd86ab56ed4c5460",
         "type": "tabs",
+        "dimension": 22.715736040609137,
         "children": [
           {
             "id": "4fa1955f617adcbb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "terrorblade.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "terrorblade"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fb313798c0fe6f1c",
+        "type": "tabs",
+        "dimension": 77.28426395939087,
+        "children": [
+          {
+            "id": "f0a3193722846cf0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -49,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "anti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +102,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -161,10 +194,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "209fa5090085c284",
+  "active": "cc32a6f5a63e45f1",
   "lastOpenFiles": [
+    "terrorblade.md",
+    "Pos1 vs Pos1/spectre.md",
+    "Pos1 vs Pos1/tiny.md",
+    "Pos1 vs Pos1/juggernaut.md",
+    "weaver.md",
+    "faceless_void.md",
+    "Pos1 vs Pos1/dragon_knight.md",
+    "Pos1 vs Pos1/slark.md",
+    "Pos1 vs Pos1/lifestealer.md",
+    "Pos1 vs Pos1/phantom_assassin.md",
+    "ursa.md",
+    "natures_prophet.md",
+    "README.md",
+    "Pos1 vs Pos1/drow_ranger.md",
+    "anti_mage.md",
+    "juggernaut.md",
+    "Pos1 vs Pos1/gyrocopter.md",
+    "Pos1 vs Pos1/sven.md",
+    "Pos1 vs Pos1/morphling.md",
+    "Pos1 vs Pos1/monkey_king.md",
+    "Pos1 vs Pos1/magnus.md",
     "Untitled.canvas",
-    "Juggernaut.md",
     "Pos1 vs Pos1"
   ]
 }
