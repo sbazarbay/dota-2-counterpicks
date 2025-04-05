@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pos1 vs Pos1/weaver.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "weaver"
+              "title": "README"
             }
           }
         ]
@@ -195,11 +195,11 @@
   },
   "active": "209fa5090085c284",
   "lastOpenFiles": [
+    "Pos1 vs Pos1/weaver.md",
     "Pos1 vs Pos1/terrorblade.md",
     "Pos1 vs Pos1/spectre.md",
     "Pos1 vs Pos1/tiny.md",
     "Pos1 vs Pos1/juggernaut.md",
-    "Pos1 vs Pos1/weaver.md",
     "Pos1 vs Pos1/faceless_void.md",
     "Pos1 vs Pos1/dragon_knight.md",
     "Pos1 vs Pos1/slark.md",
@@ -207,7 +207,7 @@
     "Pos1 vs Pos1/phantom_assassin.md",
     "Pos1 vs Pos1/ursa.md",
     "Pos1 vs Pos1/natures_prophet.md",
-    "Pos1 vs Pos1/README.md",
+    "README.md",
     "Pos1 vs Pos1/drow_ranger.md",
     "Pos1 vs Pos1/anti_mage.md",
     "juggernaut.md",
